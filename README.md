@@ -1,2 +1,2 @@
 # GURU_MACHINE_LEARNING
-MACHINE LEARNING
+This repository contains all major concepts in Machine Learning
